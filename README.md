@@ -16,7 +16,7 @@ UML Features Used:** Actor generalization, `<<include>>` for
 mandatory sub-processes, and `<<extend>>` for optional conditions (e.g., auto-renewal).
 
 
-![Library Management System](library-management-system.png)
+![Library Management System](library-use-case.png)
 
 ---
 
